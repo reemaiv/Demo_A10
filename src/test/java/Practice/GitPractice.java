@@ -9,6 +9,6 @@ public class GitPractice
 	public void m1()
 	{
 		System.out.println("Hiiiii");
-		System.out.println("Heloooo"+"hi");
+		System.out.println("Heloooo"+"hi"+"hlo");
 	}
 }
